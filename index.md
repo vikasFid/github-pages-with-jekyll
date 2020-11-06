@@ -1,3 +1,4 @@
-# Welcome to my blog
+# Welcome to my blog - Random musings of the blabbering monk.
 
-I'm glad you are here. I plan to talk about ...
+I am Vikash and I write about stuff that I like. 
+
